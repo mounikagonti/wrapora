@@ -38,7 +38,7 @@ Wrapora is a modern gifting website built with Next.js, React, TypeScript, and T
 ### Clone the repository
 
 ```bash
-git clone https://github.com/your-username/wrapora.git
+git clone https://github.com/mounikagonti/wrapora.git
 ```
 
 ### Navigate to the project directory
