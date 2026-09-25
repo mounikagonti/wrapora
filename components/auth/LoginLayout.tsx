@@ -13,7 +13,7 @@ const LoginLayout = () => {
         <section className="relative hidden h-full flex-col overflow-hidden bg-[#fbecef] md:flex">
           <div className="relative h-[62%] w-full shrink-0">
             <Image
-              src="/images/Login-img.png"
+              src="/images/login-img.png"
               alt="Gift hamper"
               fill
               priority
